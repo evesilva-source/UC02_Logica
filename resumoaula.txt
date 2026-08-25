@@ -1,0 +1,7 @@
+A aula começa chamando a atenção para a segurança e a ergonomia dentro do laboratório de informática. Nesse momento inicial, é destacada a necessidade de manter uma boa postura, organizar bem o espaço de trabalho, fazer pausas regulares e ter cuidado ao manusear os equipamentos.
+
+Em seguida, o foco passa para os conceitos fundamentais da lógica de programação. É explicado o funcionamento das variáveis, que armazenam valores que podem mudar ao longo do tempo, e das constantes, que guardam informações que nunca se alteram. Além disso, a aula aborda os tipos de dados, que servem para classificar se a informação que está sendo usada no momento é um número, um texto ou um valor lógico.
+
+O aprendizado continua com o estudo dos operadores aritméticos, que são as ferramentas usadas para fazer os cálculos, e dos operadores relacionais, que servem para comparar diferentes valores e dizer se uma condição é verdadeira ou falsa.
+
+Para encerrar, a aula mostra como todos esses conceitos funcionam na prática, dentro dos sistemas que usamos no nosso dia a dia. Por fim, o conteúdo reforça que trabalhar de forma organizada e escolher os dados corretos desde o início ajuda bastante a evitar erros e deixa qualquer código muito mais fácil de ser compreendido por outras pessoas.
