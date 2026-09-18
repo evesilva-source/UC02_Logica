@@ -15,6 +15,6 @@ programa {
         escreva("\n--- BARRACA DE PRAIA ---\n")
         escreva("Valor consumido: R$ ", valorConsumido, "\n")
         escreva("Taxa de serviço (10%): R$ ", taxaServico, "\n")
-        escreva("Total a pagar: R$ ", valorTotal, "\n")
+        escreva("Total a pagar: R$ ", valorTotal)
     }
 }
